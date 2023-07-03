@@ -8,8 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20mobile%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5C90F7&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Flutter developer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a Software Engineer and Mobile Developer specialized in Flutter. 
+- 👨‍💻 As a software engineering student, I was constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Java, PHP, Dart, and Flutter, or anything related to mobile development or backend development.
 
 
