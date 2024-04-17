@@ -10,6 +10,7 @@
 
 - 🏢 I'm a Software Engineer and Mobile Developer specialized in Flutter. 
 - 👨‍💻 As a software engineering student, I was constantly learning and exploring new technologies to improve my skills.
+- 🔥 Right now, I'm working actively involved in creating mobile software using framework Flutter in full-time job.
 - 💬 Ask me about my experience with Java, Dart and Flutter, PHP, Python and Django or anything related to mobile development or backend development.
 
 
