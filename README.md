@@ -13,24 +13,19 @@
 - 💬 Ask me about my experience with Java, Dart and Flutter, PHP, Python and Django or anything related to mobile development or backend development.
 
 
-### Connect with Me :
+### 🌐 &nbsp;Connect with Me
 
-<a href="https://linkedin.com/in/mohamedkartali" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Kartali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/mohamed._.kartali/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Kartali-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<div align="left">
+  <a href="https://linkedin.com/in/mohamedkartali" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://www.instagram.com/mohamed._.kartali/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+</div>
 
 ### 🛠 &nbsp;Tech Stack
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Mysql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
+
+
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,java,php,python,django,fastapi,mysql,postgresql,vscode,androidstudio,postman,git,github,gitlab,xd,figma&theme=dark" />
+  </a> 
+</div>
 
