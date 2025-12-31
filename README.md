@@ -8,10 +8,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5C90F7&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Mobile Developer specialized in Flutter. 
-- 👨‍💻 As a software engineering student, I was constantly learning and exploring new technologies to improve my skills.
-- 🔥 Right now, I'm working actively involved in creating mobile software using framework Flutter in full-time job.
-- 💬 Ask me about my experience with Java, Dart and Flutter, PHP, Python and Django or anything related to mobile development or backend development.
+🏢 Software Engineer & Mobile Developer with a Master’s degree in Software Engineering.
+
+🔥 Experienced in building and delivering production-ready mobile applications, both in freelance projects and full-time roles.
+
+⚙️ Worked on end-to-end solutions using Flutter for mobile apps, Django REST Framework for backend APIs, and Firebase for authentication, notifications, and real-time features.
+
+🚀 Currently working as a Mobile Software Engineer in a company to continue growing professionally.
+
+💬 Ask me anything about mobile & backend development in general.
 
 
 ### 🌐 &nbsp;Connect with Me
